@@ -1,0 +1,2 @@
+myname = "MortexAG"
+print(myname)
